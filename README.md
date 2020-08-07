@@ -1,2 +1,2 @@
-# Eye--Tracking-using-OpenCV
+# Eye--Tracking-Using-OpenCV
 This contains python codes for eye-tracking using the OpenCV package using python.
